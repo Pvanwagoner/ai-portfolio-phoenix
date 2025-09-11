@@ -17,7 +17,7 @@ Practical AI agents I’ve designed to support job seekers:
 - [Networking Coach](projects/agent-instructions/networking-coach/INSTRUCTIONS.md)  
   *Outreach message practice and feedback on relationship-building.*  
 
-- [Data-to-Strategy Translation Coach](projects/data-strategy-translator-coach/INSTRUCTIONS.md)  
+- [Data-to-Strategy Translation Coach](projects/agent-instructions/data-strategy-translator-coach/INSTRUCTIONS.md)  
   *Helps early-career professionals explain technical insights to executives using conceptual skills.*  
 
 ---
@@ -30,10 +30,10 @@ Practical AI agents I’ve designed to support job seekers:
 ---
 
 ## 📂 Other Projects
-- [Salary & Negotiation Coach](projects/salary-negotiation-coach/INSTRUCTIONS.md)  
-- [Confidence & Mindset Coach](projects/confidence-mindset-coach/INSTRUCTIONS.md)  
-- [Soft Skills Coach](projects/soft-skills-coach/INSTRUCTIONS.md)  
-- [Digital Literacy Coach](projects/digital-literacy-coach/INSTRUCTIONS.md)  
+- [Salary & Negotiation Coach](projects/agent-instructions/salary-negotiation-coach/INSTRUCTIONS.md)  
+- [Confidence & Mindset Coach](projects/agent-instructions/confidence-mindset-coach/INSTRUCTIONS.md)  
+- [Soft Skills Coach](projects/agent-instructions/soft-skills-coach/INSTRUCTIONS.md)  
+- [Digital Literacy Coach](projects/agent-instructions/digital-literacy-coach/INSTRUCTIONS.md)  
 
 ---
 
