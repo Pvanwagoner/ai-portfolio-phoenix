@@ -30,7 +30,6 @@ Practical AI agents I’ve designed to support job seekers:
 ---
 
 ## 📂 Other Projects
-- [Salary & Negotiation Coach](projects/agent-instructions/salary-negotiation-coach/INSTRUCTIONS.md)  
 - [Confidence & Mindset Coach](projects/agent-instructions/confidence-mindset-coach/INSTRUCTIONS.md)  
 - [Soft Skills Coach](projects/agent-instructions/soft-skills-coach/INSTRUCTIONS.md)  
 - [Digital Literacy Coach](projects/agent-instructions/digital-literacy-coach/INSTRUCTIONS.md)  
